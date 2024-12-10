@@ -1,0 +1,38 @@
+.nav-bar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px;
+    height:10vh;
+}
+
+.logo{
+    width:40px;
+    margin-right:10px;
+}
+.heading{
+    color: #12022f;
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:700;
+}
+li{
+    list-style-type:none;
+}
+.list-container{
+    display:flex;
+    align-items:center;
+}
+.logo-container{
+    display:flex;
+    align-items:center;
+    
+}
+.nav-link{
+    text-decoration:none;
+    margin:10px;
+    color: #12022f;
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:700;
+}
